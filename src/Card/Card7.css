@@ -1,0 +1,41 @@
+.row1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #13273f;
+    color: #ffffff;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin: 10px; */
+}
+
+.Card7 {
+    /* display: flex; */
+    background-color: #ffffff;
+    /* padding: 20px; */
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.row3 {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+.para {
+    max-width: 300px;
+}
+
+.unit {
+    align-self: flex-start;
+}

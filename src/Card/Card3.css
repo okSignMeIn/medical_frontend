@@ -1,0 +1,32 @@
+.Card3 {
+    display: flex;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: start;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 375px;
+}
+
+.doc {
+    height: 100px;
+    width: 100px;
+    padding-left: 30px;
+    
+}
+
+
+
+.info1 {
+    margin-top: 7px;
+    font-size: small;
+    margin-bottom: 7px;
+    font-weight: 600;
+    color: rgb(119, 128, 130);
+
+}
+
+.info2 {
+    color: gray;
+}

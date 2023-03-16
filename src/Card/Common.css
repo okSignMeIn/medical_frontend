@@ -1,0 +1,26 @@
+.common {
+    display: flex;
+    width: 400px;
+    margin: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.diagnoses {
+    /* padding: 2px;
+    margin: 5px; */
+    /* border: 1px solid; */
+    background-color: #ffffff;
+}
+
+.diagnoses > h3 {
+    padding: 8px;
+}
+
+.diagnoses >p {
+    margin: 6px;
+    font-size: medium;
+}

@@ -1,0 +1,20 @@
+.Request_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+b {
+    display: flex;
+    padding: 2px;
+}
+
+b>p {
+    font-weight: lighter;
+    /* padding-left: 1px; */
+}
+
+p {
+    padding: 1px;
+    
+}

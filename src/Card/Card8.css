@@ -1,0 +1,19 @@
+.Card8 {
+    background-color: #ffffff;
+    /* padding: 20px; */
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.note {
+    padding-left: 10px;
+    color: #13273f;
+}
+
+.txt {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    color: grey;
+}

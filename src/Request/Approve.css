@@ -1,0 +1,31 @@
+.Approve {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Approve > a {
+  padding-top: 10px;
+  font-size: medium;
+  color: #13273f;
+}
+
+.Approve > a:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+
+.Approve > .approve-btn {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  background-color: #13273f;
+  color: #ffff;
+  border: none;
+  border-radius: 5px;
+  font-size: medium;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,28 @@
+.Item1 {
+    background-color: #b95718;
+    width: 70px;
+    height: 35px;
+    border-bottom-left-radius: 10px;
+}
+
+.Item2 {
+    background-color: #e0a628;
+    width: 100px;
+    height: 35px;
+}
+
+.Item3 {
+    background-color: #59a119;
+    width: 100px;
+    height: 35px;
+    flex-grow: 1;
+    border-bottom-right-radius: 10px;
+}
+.ItemsAGP {
+    margin:0;
+    display: flex;    
+}
+
+.time {
+    margin-bottom: 2px;
+}

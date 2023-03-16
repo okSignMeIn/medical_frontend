@@ -1,0 +1,9 @@
+.Request_status {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Request_status >b {
+    padding-bottom:6px;
+}

@@ -1,0 +1,18 @@
+.Request_Item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  color: #13273f;
+  font-size: medium;
+  margin-top: 15px;
+}
+
+.Request_Item:hover {
+  color: #ffffff;
+  background-color: #13273f;
+  cursor: pointer;
+  transition: 0.5s;
+}

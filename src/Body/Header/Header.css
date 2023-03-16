@@ -1,0 +1,24 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 40px;
+  top: 0;
+}
+
+.Header > h1 {
+  color: #13273f;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.chat {
+    display: block;
+    height: 250px;
+    width: 480px;
+    background-color:  #e8e9ec;
+    border-radius: 10px;
+}
+
+.img_logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.chatHead {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(172, 172, 172); */
+    align-items: center;
+}
+
+.jead {
+    display: flex;
+    align-items: center;
+    margin: 10px; 
+}
+
+.chatBody {
+    height: 200px;
+    width: 480px;
+    background-color: #e8e9ec;
+    margin-bottom: 10px;
+}
+
+.input_text{
+    width: 480px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: grey;
+    border-style: hidden;
+    border: none;
+    outline: 0;
+    font-size: 16;
+}
+
+.chatHeading {
+    /* margin-top: 13px; */
+}

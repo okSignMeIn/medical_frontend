@@ -1,0 +1,22 @@
+.Card4 {
+    display: flex;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    /* max-width: 375px; */
+    /* flex: 1; */
+}
+
+h4 {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.info4 {
+    font-size: small;
+}
+
+.rid {
+    display: flex;
+}

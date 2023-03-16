@@ -1,0 +1,33 @@
+.btns {
+    display: flex;
+}
+
+.recommend {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 270px;
+}
+
+.missed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.pres {
+    /* margin: 20px;     */
+    /* padding-top: 10px; */
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
